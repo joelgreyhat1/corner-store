@@ -8,7 +8,7 @@ After building an auth-based note app, I wanted to try something with more movin
 
 ## Live Demo
 
-🔗 [corner-store.vercel.app](https://your-vercel-url.vercel.app) 
+🔗 [corner-store.vercel.app](https://corner-store-virid.vercel.app) 
 
 ## Features
 
